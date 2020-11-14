@@ -6,11 +6,11 @@ I have added additional notes to my Readme that may be helpful to those starting
 
 ## Vue.js Flexibility
 
-<p>Vue.js can also be ran purely from the client-side by either downloading Vue.js into your project or using a CDN to load Vue.js into your project.
+<p>Vue.js can also be ran purely from the client-side by either downloading Vue.js into your project or using a CDN to load Vue.js into your project. Here are some additional examples:
 
 <ul>
   <li><a href="https://github.com/nuntius-rex/vuejs-simple-component">Simple component, Vue.js loaded via CDN</a>.</li>
-  <li><a href="https://github.com/nuntius-rex/viewjs-jquery-replacement">Used as jQuery replacement</a>.
+  <li><a href="https://github.com/nuntius-rex/viewjs-jquery-replacement">Used as jQuery replacement (also CDN)</a>.
 </ul>
 
 </p>
