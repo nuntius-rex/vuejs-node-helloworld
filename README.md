@@ -9,8 +9,8 @@ I have added additional notes to my Readme that may be helpful to those starting
 <p>Vue.js can also be ran purely from the client-side by either downloading Vue.js into your project or using a CDN to load Vue.js into your project.
 
 <ul>
-  <li>To see a HTML simple component, where the Vue.js library us loaded through CDN, check out <a href="https://github.com/nuntius-rex/vuejs-simple-component">this example</a>.</li>
-  <li>It can also be used as a <a href="https://github.com/nuntius-rex/viewjs-jquery-replacement">jQuery replacement</a>.
+  <li><a href="https://github.com/nuntius-rex/vuejs-simple-component">Simple component, Vue.js loaded via CDN</a>.</li>
+  <li><a href="https://github.com/nuntius-rex/viewjs-jquery-replacement">Used as jQuery replacement</a>.
 </ul>
 
 </p>
@@ -49,6 +49,10 @@ npm run build
 ```
 npm run lint
 ```
+
+## Vue.js CLI
+
+[https://cli.vuejs.org/](https://cli.vuejs.org/)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
