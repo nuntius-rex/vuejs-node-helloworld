@@ -31,6 +31,10 @@ vue create hello-world
 npm install
 ```
 
+## Options to run
+
+<p>See the following options to run:</p>
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
